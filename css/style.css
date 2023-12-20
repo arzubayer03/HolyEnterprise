@@ -5,3 +5,22 @@
 .custom-font2{
     font-family: 'Preahvihear', sans-serif;
 }
+
+.height100{
+    height: 100px;
+}
+
+.nav-logo{
+    height: 30%;
+    width: 50%;
+}
+
+.nav-page{
+    color: orange;
+    font-family: 'Silkscreen', sans-serif;
+    border: 2px solid white;
+}
+
+.nav-page:hover{
+    color: black;
+}
