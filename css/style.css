@@ -24,3 +24,28 @@
 .nav-page:hover{
     color: black;
 }
+
+.service-img{
+    height: 100%;
+    width: 40%;
+    margin-left: 20%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
+}
+
+.emp{
+    height: auto;
+}
+
+.emp-card{
+    height: 500px;
+}
+
+.emp-img{
+    height: 300px;
+    width: 270px;
+    align-items: center;
+    padding: 10px;
+    border-radius: 20px;
+}
+
